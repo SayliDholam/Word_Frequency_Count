@@ -9,7 +9,7 @@ With this project, we can count the frequency of each word in a text using DSA c
 
 <br/>
 
-## DATA STRUCTURE CONCEPT USED: Hash Table 
+## Data Structure Concept Used: HASH TABLE
 The hashing concept is involved implicitly when using unordered_map. The 
 unordered_map is a hash table implementation, and it uses a hash function to 
 map keys to indices in its underlying array.  
@@ -22,3 +22,5 @@ hashing details internally.
 A hash table is a data structure that uses a hash function to map keys to indices 
 in an array. This allows for efficient storage and retrieval of key-value pairs. In 
 the case of std::unordered_map, the keys are hashed, and the resulting hash 
+
+
