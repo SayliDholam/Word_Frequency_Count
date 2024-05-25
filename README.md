@@ -5,11 +5,10 @@ Developed in C++ using DSA concept : Hashing
 
 ## Problem Statement
 With this project, we can count the frequency of each word in a text using DSA concept - Hashing.  
-
-
 <br/>
 
 ## Data Structure Concept Used: HASH TABLE
+
 The hashing concept is involved implicitly when using unordered_map. The 
 unordered_map is a hash table implementation, and it uses a hash function to 
 map keys to indices in its underlying array.  
