@@ -24,7 +24,5 @@ the case of std::unordered_map, the keys are hashed, and the resulting hash.
 
 <br/>
 
-### Output
-
-![Dashboard](images/dashboard.png)
-*Caption: FitHub Dashboard showing user progress.*
+![Output](output.jpg)
+<br/>*Output Screen*
