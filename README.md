@@ -20,6 +20,11 @@ hashing details internally.
  
 A hash table is a data structure that uses a hash function to map keys to indices 
 in an array. This allows for efficient storage and retrieval of key-value pairs. In 
-the case of std::unordered_map, the keys are hashed, and the resulting hash 
+the case of std::unordered_map, the keys are hashed, and the resulting hash.
 
+<br/>
 
+### Output
+
+![Dashboard](images/dashboard.png)
+*Caption: FitHub Dashboard showing user progress.*
