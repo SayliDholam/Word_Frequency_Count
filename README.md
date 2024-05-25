@@ -5,6 +5,7 @@ Developed in C++ using DSA concept : Hashing
 
 ## Problem Statement
 With this project, we can count the frequency of each word in a statement. 
+
 <br/>
 
 ## Data Structure Concept Used: HASH TABLE
@@ -21,6 +22,7 @@ hashing details internally.
 A hash table is a data structure that uses a hash function to map keys to indices 
 in an array. This allows for efficient storage and retrieval of key-value pairs. In 
 the case of std::unordered_map, the keys are hashed, and the resulting hash.
+
 
 <br/>
 
