@@ -4,7 +4,7 @@ Developed in C++ using DSA concept : Hashing
 <br/>
 
 ## Problem Statement
-With this project, we can count the frequency of each word in a text using DSA concept - Hashing.  
+With this project, we can count the frequency of each word in a statement. 
 <br/>
 
 ## Data Structure Concept Used: HASH TABLE
